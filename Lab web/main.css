@@ -1,0 +1,23 @@
+body{
+    background-color: rgb(238, 233, 227);
+}
+.resume {
+    text-align: center;
+    font-size: 42px;
+    font-style: normal;
+    font-family: 'Playpen Sans', cursive;
+    font-weight: 500;
+}
+.img {
+    border-radius: 300px;
+    width: 20%;
+    
+}
+.name{
+    text-align: left;
+    font-weight:200;
+    position:absolute;
+    top:50%; 
+    height:50%; 
+    margin-top:-25%;
+}
