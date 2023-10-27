@@ -67,7 +67,10 @@ body{
     place-items: center;
 
 }
+#myusername{
+    text-decoration-line: none;
+}
 #myusername:hover{
+    text-decoration-line: underline;
     color: green;
-
 }
