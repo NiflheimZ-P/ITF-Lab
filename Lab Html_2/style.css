@@ -29,6 +29,7 @@ body{
     display: grid;
     gap: 20px;
     justify-content: center ;
+
 }
 /* .input_box_username{
     margin-left: 250px;
@@ -50,6 +51,8 @@ body{
     background-color: pink;
     width: 100%;
     height: 100%;
+    background-position: center;
+    background-size: cover;
 }
 .noti{
     position: absolute;
@@ -66,4 +69,5 @@ body{
 }
 #myusername:hover{
     color: green;
+
 }
